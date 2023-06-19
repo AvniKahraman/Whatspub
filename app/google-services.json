@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343790381459",
+    "project_id": "whatspub-2d227",
+    "storage_bucket": "whatspub-2d227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343790381459:android:2b16622f64550cd6eee066",
+        "android_client_info": {
+          "package_name": "com.example.whatspub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343790381459-2un83i7hkq1ugo78gnosk54c1mk9t0jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATER8uDcOVvuNAlIC8_E-4bVVhJjc8xTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343790381459-2un83i7hkq1ugo78gnosk54c1mk9t0jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
